@@ -1,0 +1,1 @@
+-keepclassmembers class com.michaelstokes.everythingcalculator.MainActivity$AndroidBridge { public *; }
