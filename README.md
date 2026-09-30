@@ -1,4 +1,4 @@
-# Everything Calculator v1.6
+# Everything Calculator v1.7
 
 A separate offline Android app for everyday, scientific, graphing, finance, trucking, conversion and advanced math calculations. It does not share an application ID or saved data with Mike's Math Coach.
 
@@ -13,6 +13,8 @@ Version 1.4 replaces the ineffective WebView-padding workaround with Android win
 Version 1.5 uses explicit top and bottom system-bar margins while keeping the WebView full-width, fixing Samsung devices that reported an incorrect right-side inset.
 
 Version 1.6 compacts the calculator display and action controls, removes duplicated bottom safe-area spacing, and keeps the large keypad buttons intact.
+
+Version 1.7 removes the large in-app branding header and replaces it with a compact angle-mode bar.
 
 ## Build
 
